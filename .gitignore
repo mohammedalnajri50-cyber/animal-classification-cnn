@@ -47,7 +47,6 @@ data/
 *.pickle
 
 # Model files
-models/
 *.h5
 *.hdf5
 *.pb
@@ -56,7 +55,6 @@ models/
 
 # Logs and reports
 logs/
-reports/
 *.log
 
 # OS generated files
